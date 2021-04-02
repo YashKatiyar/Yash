@@ -1,0 +1,22 @@
+body {
+  background-color: #E5F5DC;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}
+.uplive
+{
+  height: 500px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+   width: 50%;
+}
+.app
+{
+  width: 100%;
+  height: auto;
+}
